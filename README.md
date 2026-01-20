@@ -18,7 +18,7 @@ data cleaning of real-world supplementary files, and publication-grade visualiza
   - Visualizing multimodal gene discovery across tissues
 
 ## Output
-![Reproduced Figure](supplementary_figure.png)
+![Reproduced Figure](download.png)
 
 ## Disclaimer
 This is a **re-analysis for educational and reproducibility purposes only**.
